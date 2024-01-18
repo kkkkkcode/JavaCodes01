@@ -17,7 +17,5 @@ public class GirlFriend {
         System.out.println(name+"在玩游戏");
     }
 
-    public void makeLove(){
-        System.out.println(name+"在和我做爱,被我操得高潮了");
     }
 }
