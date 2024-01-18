@@ -12,8 +12,7 @@ public class GirlFriendTest {
         System.out.println(gf1.gender);
 
         gf1.eat();
-        gf1.makeLove();
-
+        
 
         System.out.println("================================================================");
 
@@ -28,7 +27,7 @@ public class GirlFriendTest {
         System.out.println(gf2.gender);
 
         gf2.eat();
-        gf2.makeLove();
+       
     }
 
 
