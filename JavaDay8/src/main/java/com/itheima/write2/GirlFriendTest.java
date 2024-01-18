@@ -3,7 +3,7 @@ package com.itheima.write2;
 public class GirlFriendTest {
     public static void main(String[] args) {
         GirlFriend gf1 = new GirlFriend();
-        gf1.name = "三金e";
+        gf1.name = "婧婧";
         gf1.age = 18;
         gf1.gender = "萌妹子";
 
@@ -18,7 +18,7 @@ public class GirlFriendTest {
         System.out.println("================================================================");
 
         GirlFriend gf2 = new GirlFriend();
-        gf2.name = "天如";
+        gf2.name = "琳琳";
         gf2.age = 19;
         gf2.gender = "萌妹子";
 
